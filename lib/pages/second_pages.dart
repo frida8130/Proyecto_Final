@@ -21,7 +21,7 @@ class SecondPage extends StatelessWidget {
                 Container(
                   child: Text(
                     'Registro',
-                    style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 35.0, color: Colors.purple),
+                    style: new TextStyle(fontWeight: FontWeight.bold, fontSize: 30, color: Colors.purple),
                   ),
                 ),
                 SizedBox(

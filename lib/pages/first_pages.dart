@@ -22,7 +22,6 @@ class FirstPage extends StatelessWidget {
               new Container(
                 child: new Image.asset(
                   'assets/esc1.jpg',
-
                 ),
               ),
               Text(
