@@ -26,8 +26,8 @@ class FirstPage extends StatelessWidget {
                 ),
               ),
               Text(
-                "Escuela privada !",
-                style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold, fontSize: 23),
+                "La mejor escuela!",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold, fontSize: 20),
               )
             ],
           ),

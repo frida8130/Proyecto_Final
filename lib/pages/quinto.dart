@@ -6,7 +6,7 @@ class QuintaPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Configuracion ',
+          'Configuración ',
           style: TextStyle(color: Colors.white),
         ),
         centerTitle: true,
@@ -48,7 +48,7 @@ class QuintaPage extends StatelessWidget {
               ), //Fin de listtile5
               ListTile(
                 leading: Icon(Icons.phone_rounded,color: Colors.green[700]),
-                title: Text('Llamadas De Emerjencia'),
+                title: Text('Llamadas De Emergencia'),
               ), //Fin de listtile6
             
           ], //fin de widget
