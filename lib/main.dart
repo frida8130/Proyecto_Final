@@ -12,7 +12,7 @@ class fridaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter Burger sanchez',
+      title: 'Flutter Final sanchez',
       home: PaginaInicio(),
     ); //Fin Material App
   } //Fin Widget
