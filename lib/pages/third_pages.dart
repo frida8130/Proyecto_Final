@@ -76,7 +76,7 @@ class _ThirdPageState extends State<ThirdPage> {
               child: Align(
                 alignment: Alignment(0.1, 0.1),
                 child: Text(
-                  "Tenemos todas las especialidades para tú gusto",
+                  "Tenemos todo lo que necesitas",
                   textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 20.0, color: Colors.black),
                                 ),
